@@ -1,0 +1,14 @@
+https://drive.google.com/folderview?id=1_AOYmvBzQvvQNxIlcAMsP2PuupRm9QGT
+
+https://developer.wordpress.org/resource/dashicons/#format-aside
+
+https://www.youtube.com/watch?v=fnpmR6Q5lEc
+
+lenh tao api(server):
+express <ten>: vidu - express api.
+cd <ten> (truy cap vao tep do): vi du - cd api.
+npm install(cai cac goi trong file package.json).
+npm start(chay file app.js)
+====> tham khao them duong link phia tren
+
+https://gist.github.com/thachpham92/d57b18cf02e3550acdb5 => các tham số trong WP_Query
